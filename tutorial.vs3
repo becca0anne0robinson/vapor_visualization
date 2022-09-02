@@ -1,0 +1,900 @@
+<VAPOR>
+<Global>
+<RegionParams>
+<RegionParams>
+<BoxParams>
+<Orientation Type="Long">
+3 
+</Orientation>
+<Planar Type="Long">
+0 
+</Planar>
+<Angles Type="Double">
+0 0 0 
+</Angles>
+<Extents Type="Double">
+0 0 0 1 1 1 
+</Extents>
+</BoxParams>
+</RegionParams>
+</RegionParams>
+<AnnotationParams>
+<AnnotationParams>
+<DomainFrame Type="Long">
+1 
+</DomainFrame>
+<LatLonAxes Type="Long">
+0 
+</LatLonAxes>
+<RegionFrame Type="Long">
+0 
+</RegionFrame>
+<ShowAxisArrows Type="Long">
+0 
+</ShowAxisArrows>
+<TimeSize Type="Long">
+24 
+</TimeSize>
+<AxisArrowSize Type="Double">
+0.2 
+</AxisArrowSize>
+<AxisArrowXPos Type="Double">
+0.05 
+</AxisArrowXPos>
+<AxisArrowYPos Type="Double">
+0.05 
+</AxisArrowYPos>
+<BackgroundColor Type="Double">
+0 0 0 
+</BackgroundColor>
+<DomainColor Type="Double">
+1 1 1 
+</DomainColor>
+<RegionColor Type="Double">
+1 0 0 
+</RegionColor>
+<TimeColor Type="Double">
+1 1 1 
+</TimeColor>
+<TimeLLX Type="Double">
+0.01 
+</TimeLLX>
+<TimeLLY Type="Double">
+0.01 
+</TimeLLY>
+<AxisAnnotations>
+<default>
+<AxisAnnotation>
+<AxisAnnotation Type="Long">
+1 
+</AxisAnnotation>
+<AxisDigits Type="Long">
+0 
+</AxisDigits>
+<AxisFontSize Type="Long">
+24 
+</AxisFontSize>
+<AxisAnnotaitonInitialized Type="Double">
+1 
+</AxisAnnotaitonInitialized>
+<AxisColor Type="Double">
+1 1 1 
+</AxisColor>
+<AxisFontSize Type="Double">
+48 
+</AxisFontSize>
+<AxisOrigin Type="Double">
+0 0 0 
+</AxisOrigin>
+<BackgroundColor Type="Double">
+0 0 0 
+</BackgroundColor>
+<NumberTics Type="Double">
+6 6 6 
+</NumberTics>
+<TicMaxPositions Type="Double">
+1 1 1 
+</TicMaxPositions>
+<TicMinPositions Type="Double">
+0 0 0 
+</TicMinPositions>
+<TicWidths Type="Double">
+1 
+</TicWidths>
+</AxisAnnotation>
+</default>
+</AxisAnnotations>
+</AnnotationParams>
+</AnnotationParams>
+<DatasetsParams>
+<DatasetsParams>
+<Datasets>
+</Datasets>
+</DatasetsParams>
+</DatasetsParams>
+<GUIStateParams>
+<GUIStateParams>
+<HomeModelViewMatrix Type="Double">
+-0.9993898868560791 -0.008118228986859322 0.03397008031606674 0 -0.03437664732336998 0.05670761317014694 -0.9977988004684448 0 0.006173997186124325 -0.9983578324317932 -0.0569520927965641 0 5.959341526031494 -2.854690313339233 -14.80410575866699 1 
+</HomeModelViewMatrix>
+<HomeRotationCenter Type="Double">
+5.985356330871582 5.985356330871582 -2.742066383361816 
+</HomeRotationCenter>
+<ActiveTabTag Type="String">
+Appearance
+</ActiveTabTag>
+<ActiveVisualizer Type="String">
+Visualizer_No._0
+</ActiveVisualizer>
+<Proj4StringTag Type="String">
+NULL
+</Proj4StringTag>
+<SessionFileTag Type="String">
+/Users/rebecrob/Desktop/UiO/fieldtracings/viz_workshop/tutorial.vs3
+</SessionFileTag>
+<ActiveRenderer>
+<Visualizer_No._0 Type="String">
+Flow Flow
+</Visualizer_No._0>
+</ActiveRenderer>
+<MouseModeParamsTag>
+<CurrentMouseModeTag Type="String">
+Navigate
+</CurrentMouseModeTag>
+</MouseModeParamsTag>
+<OpenDataSetsTag>
+<sampledata_1290.nc>
+<DataSetParam>
+<DataSetFormatTag Type="String">
+cf
+</DataSetFormatTag>
+<DataSetPathsTag Type="String">
+/Users/rebecrob/Desktop/UiO/fieldtracings/viz_workshop/sampledata_1290.nc
+</DataSetPathsTag>
+</DataSetParam>
+</sampledata_1290.nc>
+</OpenDataSetsTag>
+<BookmarksTag>
+</BookmarksTag>
+</GUIStateParams>
+</GUIStateParams>
+<SettingsParams>
+<SettingsParams>
+<AutoCheckForNoticesTag Type="Long">
+0 
+</AutoCheckForNoticesTag>
+<AutoSaveEnabled Type="Long">
+0 
+</AutoSaveEnabled>
+<DontShowIntelDriverWarning Type="Long">
+1 
+</DontShowIntelDriverWarning>
+<NumThreads Type="Long">
+1 
+</NumThreads>
+<FlowDir Type="String">
+~
+</FlowDir>
+<MetadataDir Type="String">
+/Users/rebecrob/Desktop/UiO/fieldtracings
+</MetadataDir>
+<PythonDir Type="String">
+.
+</PythonDir>
+<SessionDir Type="String">
+/Users/rebecrob/Desktop/UiO/fieldtracings
+</SessionDir>
+<TFDir Type="String">
+/Applications/vapor.app/Contents/share/palettes
+</TFDir>
+</SettingsParams>
+</SettingsParams>
+<AnimationParams>
+<AnimationParams>
+<CurrentTimestep Type="Long">
+0 
+</CurrentTimestep>
+<EndTimestep Type="Long">
+0 
+</EndTimestep>
+<FrameStepSize Type="Long">
+1 
+</FrameStepSize>
+<PlayBackwards Type="Long">
+0 
+</PlayBackwards>
+<RepeatPlay Type="Long">
+0 
+</RepeatPlay>
+<StartTimestep Type="Long">
+0 
+</StartTimestep>
+<MaxFrameRate Type="Double">
+10 
+</MaxFrameRate>
+</AnimationParams>
+</AnimationParams>
+</Global>
+<Windows>
+<Visualizer_No._0>
+<ViewpointParams>
+<CustomFramebufferHeight Type="Long">
+1080 
+</CustomFramebufferHeight>
+<CustomFramebufferWidth Type="Long">
+1920 
+</CustomFramebufferWidth>
+<NumLights Type="Long">
+1 
+</NumLights>
+<UseCustomFramebuffer Type="Long">
+0 
+</UseCustomFramebuffer>
+<WindowSize Type="Long">
+977 827 
+</WindowSize>
+<AmbientCoefficient Type="Double">
+0.1000000014901161 
+</AmbientCoefficient>
+<DiffuseCoefficients Type="Double">
+0.800000011920929 0.800000011920929 0.800000011920929 
+</DiffuseCoefficients>
+<LightDirections Type="Double">
+0 0 1 0 0 1 0 0 1 0 0 0 
+</LightDirections>
+<SpecularCoefficients Type="Double">
+0.300000011920929 0.300000011920929 0.300000011920929 
+</SpecularCoefficients>
+<SpecularExponent Type="Double">
+20 
+</SpecularExponent>
+<Viewpoints>
+<CurrentViewpoint>
+<Viewpoint>
+<ModelViewMatrix Type="Double">
+-0.9993898868560791 -0.008118228986859322 0.03397008031606674 0 -0.03437664732336998 0.05670761317014694 -0.9977988004684448 0 0.006173997186124325 -0.9983578324317932 -0.0569520927965641 0 5.959341526031494 -2.854690313339233 -14.80410575866699 1 
+</ModelViewMatrix>
+<ProjectionMatrix Type="Double">
+2.043556451797485 0 0 0 0 2.414213418960571 0 0 0 0 -1.003757119178772 -1 0 0 -0.4041187763214111 0 
+</ProjectionMatrix>
+<RotationCenter Type="Double">
+5.985356330871582 5.985356330871582 -2.742066383361816 
+</RotationCenter>
+</Viewpoint>
+</CurrentViewpoint>
+</Viewpoints>
+<Transforms>
+<sampledata_1290.nc>
+<Transform>
+<OriginInitialized Type="Long">
+1 
+</OriginInitialized>
+<Origin Type="Double">
+5.985356330871582 5.985356330871582 -2.742066383361816 
+</Origin>
+<Scale Type="Double">
+1 1 1 
+</Scale>
+</Transform>
+</sampledata_1290.nc>
+</Transforms>
+</ViewpointParams>
+<Renderers>
+<sampledata_1290.nc>
+<FlowParams>
+<Flow>
+<FlowParams>
+<CompressionLevel Type="Long">
+0 
+</CompressionLevel>
+<CurrentTimestep Type="Long">
+0 
+</CurrentTimestep>
+<DoIntegrationTag Type="Long">
+0 
+</DoIntegrationTag>
+<Enabled Type="Long">
+1 
+</Enabled>
+<FlowDirectionTag Type="Long">
+2 
+</FlowDirectionTag>
+<GridNumOfSeeds_X Type="Long">
+5 
+</GridNumOfSeeds_X>
+<GridNumOfSeeds_Y Type="Long">
+5 
+</GridNumOfSeeds_Y>
+<GridNumOfSeeds_Z Type="Long">
+1 
+</GridNumOfSeeds_Z>
+<IntegrationSetAllToFinalValueTag Type="Long">
+0 
+</IntegrationSetAllToFinalValueTag>
+<IsSteadyTag Type="Long">
+1 
+</IsSteadyTag>
+<PastNumOfTimeSteps Type="Long">
+1 
+</PastNumOfTimeSteps>
+<PeriodicTag_X Type="Long">
+0 
+</PeriodicTag_X>
+<PeriodicTag_Y Type="Long">
+0 
+</PeriodicTag_Y>
+<PeriodicTag_Z Type="Long">
+0 
+</PeriodicTag_Z>
+<RandomNumOfSeeds Type="Long">
+50 
+</RandomNumOfSeeds>
+<RefinementLevel Type="Long">
+0 
+</RefinementLevel>
+<RenderFadeTailLengthTag Type="Long">
+10 
+</RenderFadeTailLengthTag>
+<RenderFadeTailStartTag Type="Long">
+10 
+</RenderFadeTailStartTag>
+<RenderFadeTailStopTag Type="Long">
+0 
+</RenderFadeTailStopTag>
+<RenderFadeTailTag Type="Long">
+0 
+</RenderFadeTailTag>
+<RenderGeom3DTag Type="Long">
+1 
+</RenderGeom3DTag>
+<RenderGlyphOnlyLeadingTag Type="Long">
+0 
+</RenderGlyphOnlyLeadingTag>
+<RenderGlyphStrideTag Type="Long">
+5 
+</RenderGlyphStrideTag>
+<RenderGlyphTypeTag Type="Long">
+0 
+</RenderGlyphTypeTag>
+<RenderLightAtCameraTag Type="Long">
+1 
+</RenderLightAtCameraTag>
+<RenderShowStreamDirTag Type="Long">
+0 
+</RenderShowStreamDirTag>
+<RenderTypeTag Type="Long">
+0 
+</RenderTypeTag>
+<SeedGenModeTag Type="Long">
+3 
+</SeedGenModeTag>
+<SlicePlaneOrientationModeTag Type="Long">
+0 
+</SlicePlaneOrientationModeTag>
+<SteadyNumOfStepsTag Type="Long">
+100 
+</SteadyNumOfStepsTag>
+<ConstantColor Type="Double">
+1 1 1 
+</ConstantColor>
+<ConstantOpacity Type="Double">
+1 
+</ConstantOpacity>
+<HistoScale Type="Double">
+1 
+</HistoScale>
+<IntegrationBoxTag Type="Double">
+0 11.97071266174316 0 11.97071266174316 -7.982132911682129 2.498000144958496 
+</IntegrationBoxTag>
+<IntegrationScalarTag Type="Double">
+1 
+</IntegrationScalarTag>
+<PhongAmbientTag Type="Double">
+0.4 
+</PhongAmbientTag>
+<PhongDiffuseTag Type="Double">
+0.8 
+</PhongDiffuseTag>
+<PhongShininessTag Type="Double">
+2 
+</PhongShininessTag>
+<PhongSpecularTag Type="Double">
+0 
+</PhongSpecularTag>
+<RakeTag Type="Double">
+0 11.97071266174316 0 11.97071266174316 -7.982132911682129 2.498000144958496 
+</RakeTag>
+<RenderDensityFalloffTag Type="Double">
+1 
+</RenderDensityFalloffTag>
+<RenderDensityToneMappingTag Type="Double">
+1 
+</RenderDensityToneMappingTag>
+<RenderRadiusBaseTag Type="Double">
+0.02137627266347408 
+</RenderRadiusBaseTag>
+<RenderRadiusScalarTag Type="Double">
+1 
+</RenderRadiusScalarTag>
+<SampleRate Type="Double">
+200 
+</SampleRate>
+<SlicePlaneNormalYTag Type="Double">
+0 
+</SlicePlaneNormalYTag>
+<SlicePlaneNormalZTag Type="Double">
+1 
+</SlicePlaneNormalZTag>
+<VelocityMultiplierTag Type="Double">
+1 
+</VelocityMultiplierTag>
+<XSlicePlaneOrigin Type="Double">
+5.985356330871582 
+</XSlicePlaneOrigin>
+<YSlicePlaneOrigin Type="Double">
+5.985356330871582 
+</YSlicePlaneOrigin>
+<ZSlicePlaneOrigin Type="Double">
+-2.742066383361816 
+</ZSlicePlaneOrigin>
+<ColorMapVariable Type="String">
+j_b
+</ColorMapVariable>
+<FieldVariableName_X Type="String">
+bxs
+</FieldVariableName_X>
+<FieldVariableName_Y Type="String">
+bys
+</FieldVariableName_Y>
+<FieldVariableName_Z Type="String">
+bzs
+</FieldVariableName_Z>
+<FlowlineOutputFilenameTag Type="String">
+/Users/rebecrob/VaporFlow.txt
+</FlowlineOutputFilenameTag>
+<RakeBiasVariable Type="String">
+bmag
+</RakeBiasVariable>
+<SeedInputFilenameTag Type="String">
+/Users/rebecrob/Desktop/UiO/fieldtracings/viz_workshop/corks_coords_1290.csv
+</SeedInputFilenameTag>
+<VariableName Type="String">
+NULL
+</VariableName>
+<MapperFunctions>
+<bmag>
+<MapperFunctionParams>
+<OpacityComposition Type="Long">
+0 
+</OpacityComposition>
+<DataBounds Type="Double">
+9.441714610147756e-06 3.624208927154541 
+</DataBounds>
+<OpacityScale Type="Double">
+1 
+</OpacityScale>
+<ColorMapParams>
+<ColorInterpolationType Type="Long">
+4 
+</ColorInterpolationType>
+<UseWhitespace Type="Long">
+1 
+</UseWhitespace>
+<ColorMapControlPoints Type="Double">
+0.6444444444444445 0.695 0.757 0 0.9666666666666667 0.977 0.706 0.99 
+</ColorMapControlPoints>
+<DataBounds Type="Double">
+9.441714610147756e-06 3.624208927154541 
+</DataBounds>
+</ColorMapParams>
+<OpacityMaps>
+<OpacityMap_0>
+<OpacityMapParams>
+<Enabled Type="Long">
+1 
+</Enabled>
+<OpacityInterpolation Type="Long">
+0 
+</OpacityInterpolation>
+<Type Type="Long">
+0 
+</Type>
+<DataBounds Type="Double">
+9.441714610147756e-06 3.624208927154541 
+</DataBounds>
+<Freq Type="Double">
+5 
+</Freq>
+<Mean Type="Double">
+0.5 
+</Mean>
+<OpacityMapControlPoints Type="Double">
+1 0 1 0.3333333333333333 1 0.6666666666666666 1 1 
+</OpacityMapControlPoints>
+<Phase Type="Double">
+39.47841760435743 
+</Phase>
+<RelMaxValue Type="Double">
+1 
+</RelMaxValue>
+<RelMinValue Type="Double">
+0 
+</RelMinValue>
+<SSq Type="Double">
+0.1 
+</SSq>
+</OpacityMapParams>
+</OpacityMap_0>
+</OpacityMaps>
+</MapperFunctionParams>
+</bmag>
+<j_b>
+<MapperFunctionParams>
+<OpacityComposition Type="Long">
+0 
+</OpacityComposition>
+<DataBounds Type="Double">
+6.625180685659871e-05 6864.607421875 
+</DataBounds>
+<OpacityScale Type="Double">
+1 
+</OpacityScale>
+<ColorMapParams>
+<ColorInterpolationType Type="Long">
+4 
+</ColorInterpolationType>
+<UseWhitespace Type="Long">
+1 
+</UseWhitespace>
+<ColorMapControlPoints Type="Double">
+0.9666666666666667 0.977 0.706 0.99 
+</ColorMapControlPoints>
+<DataBounds Type="Double">
+6.625180685659871e-05 6864.607421875 
+</DataBounds>
+</ColorMapParams>
+<OpacityMaps>
+<OpacityMap_0>
+<OpacityMapParams>
+<Enabled Type="Long">
+1 
+</Enabled>
+<OpacityInterpolation Type="Long">
+0 
+</OpacityInterpolation>
+<Type Type="Long">
+0 
+</Type>
+<DataBounds Type="Double">
+6.625180685659871e-05 6864.607421875 
+</DataBounds>
+<Freq Type="Double">
+5 
+</Freq>
+<Mean Type="Double">
+0.5 
+</Mean>
+<OpacityMapControlPoints Type="Double">
+1 0 1 0.3333333333333333 1 0.6666666666666666 1 1 
+</OpacityMapControlPoints>
+<Phase Type="Double">
+39.47841760435743 
+</Phase>
+<RelMaxValue Type="Double">
+1 
+</RelMaxValue>
+<RelMinValue Type="Double">
+0 
+</RelMinValue>
+<SSq Type="Double">
+0.1 
+</SSq>
+</OpacityMapParams>
+</OpacityMap_0>
+</OpacityMaps>
+</MapperFunctionParams>
+</j_b>
+</MapperFunctions>
+<BoxParams>
+<Orientation Type="Long">
+3 
+</Orientation>
+<Planar Type="Long">
+0 
+</Planar>
+<Angles Type="Double">
+0 0 0 
+</Angles>
+<Extents Type="Double">
+0 0 -7.982132911682129 11.97071266174316 11.97071266174316 2.498000144958496 
+</Extents>
+</BoxParams>
+<ColorBarSettingParams>
+<ColorbarEnabled Type="Long">
+0 
+</ColorbarEnabled>
+<ColorbarFontsize Type="Long">
+10 
+</ColorbarFontsize>
+<ColorbarNumDigits Type="Long">
+4 
+</ColorbarNumDigits>
+<ColorbarNumTicks Type="Long">
+6 
+</ColorbarNumTicks>
+<UseScientificNotationTag Type="Long">
+0 
+</UseScientificNotationTag>
+<ColorbarBackgroundColor Type="Double">
+1 1 1 
+</ColorbarBackgroundColor>
+<ColorbarPosition_X Type="Double">
+0.03 
+</ColorbarPosition_X>
+<ColorbarPosition_Y Type="Double">
+0.03 
+</ColorbarPosition_Y>
+<ColorbarSize_X Type="Double">
+0.1 
+</ColorbarSize_X>
+<ColorbarSize_Y Type="Double">
+0.1 
+</ColorbarSize_Y>
+<ColorbarTitle Type="String">
+NULL
+</ColorbarTitle>
+</ColorBarSettingParams>
+<Transform>
+<OriginInitialized Type="Long">
+1 
+</OriginInitialized>
+<Origin Type="Double">
+5.985356330871582 5.985356330871582 -2.742066383361816 
+</Origin>
+</Transform>
+</FlowParams>
+</Flow>
+</FlowParams>
+</sampledata_1290.nc>
+</Renderers>
+</Visualizer_No._0>
+</Windows>
+<AppRenderers>
+<sampledata_1290.nc>
+<StatisticsParams>
+<StatisticsParams>
+<CompressionLevel Type="Long">
+0 
+</CompressionLevel>
+<Enabled Type="Long">
+1 
+</Enabled>
+<RefinementLevel Type="Long">
+0 
+</RefinementLevel>
+<SlicePlaneOrientationModeTag Type="Long">
+0 
+</SlicePlaneOrientationModeTag>
+<ConstantColor Type="Double">
+1 1 1 
+</ConstantColor>
+<ConstantOpacity Type="Double">
+1 
+</ConstantOpacity>
+<HistoScale Type="Double">
+1 
+</HistoScale>
+<SampleRate Type="Double">
+200 
+</SampleRate>
+<SlicePlaneNormalYTag Type="Double">
+0 
+</SlicePlaneNormalYTag>
+<SlicePlaneNormalZTag Type="Double">
+1 
+</SlicePlaneNormalZTag>
+<XSlicePlaneOrigin Type="Double">
+5.985356330871582 
+</XSlicePlaneOrigin>
+<YSlicePlaneOrigin Type="Double">
+5.985356330871582 
+</YSlicePlaneOrigin>
+<ZSlicePlaneOrigin Type="Double">
+-2.742066383361816 
+</ZSlicePlaneOrigin>
+<ColorMapVariable Type="String">
+bmag
+</ColorMapVariable>
+<FieldVariableName_X Type="String">
+NULL
+</FieldVariableName_X>
+<FieldVariableName_Y Type="String">
+NULL
+</FieldVariableName_Y>
+<FieldVariableName_Z Type="String">
+NULL
+</FieldVariableName_Z>
+<VariableName Type="String">
+bmag
+</VariableName>
+<MapperFunctions>
+</MapperFunctions>
+<BoxParams>
+<Orientation Type="Long">
+3 
+</Orientation>
+<Planar Type="Long">
+0 
+</Planar>
+<Angles Type="Double">
+0 0 0 
+</Angles>
+<Extents Type="Double">
+0 0 -7.982132911682129 11.97071266174316 11.97071266174316 2.498000144958496 
+</Extents>
+</BoxParams>
+<ColorBarSettingParams>
+<ColorbarEnabled Type="Long">
+0 
+</ColorbarEnabled>
+<ColorbarFontsize Type="Long">
+10 
+</ColorbarFontsize>
+<ColorbarNumDigits Type="Long">
+4 
+</ColorbarNumDigits>
+<ColorbarNumTicks Type="Long">
+6 
+</ColorbarNumTicks>
+<UseScientificNotationTag Type="Long">
+0 
+</UseScientificNotationTag>
+<ColorbarBackgroundColor Type="Double">
+1 1 1 
+</ColorbarBackgroundColor>
+<ColorbarPosition_X Type="Double">
+0.03 
+</ColorbarPosition_X>
+<ColorbarPosition_Y Type="Double">
+0.03 
+</ColorbarPosition_Y>
+<ColorbarSize_X Type="Double">
+0.1 
+</ColorbarSize_X>
+<ColorbarSize_Y Type="Double">
+0.1 
+</ColorbarSize_Y>
+<ColorbarTitle Type="String">
+NULL
+</ColorbarTitle>
+</ColorBarSettingParams>
+<Transform>
+<OriginInitialized Type="Long">
+1 
+</OriginInitialized>
+<Origin Type="Double">
+5.985356330871582 5.985356330871582 -2.742066383361816 
+</Origin>
+</Transform>
+</StatisticsParams>
+</StatisticsParams>
+<PlotParams>
+<PlotParams>
+<CompressionLevel Type="Long">
+0 
+</CompressionLevel>
+<Enabled Type="Long">
+1 
+</Enabled>
+<RefinementLevel Type="Long">
+0 
+</RefinementLevel>
+<SlicePlaneOrientationModeTag Type="Long">
+0 
+</SlicePlaneOrientationModeTag>
+<ConstantColor Type="Double">
+1 1 1 
+</ConstantColor>
+<ConstantOpacity Type="Double">
+1 
+</ConstantOpacity>
+<HistoScale Type="Double">
+1 
+</HistoScale>
+<SampleRate Type="Double">
+200 
+</SampleRate>
+<SlicePlaneNormalYTag Type="Double">
+0 
+</SlicePlaneNormalYTag>
+<SlicePlaneNormalZTag Type="Double">
+1 
+</SlicePlaneNormalZTag>
+<XSlicePlaneOrigin Type="Double">
+5.985356330871582 
+</XSlicePlaneOrigin>
+<YSlicePlaneOrigin Type="Double">
+5.985356330871582 
+</YSlicePlaneOrigin>
+<ZSlicePlaneOrigin Type="Double">
+-2.742066383361816 
+</ZSlicePlaneOrigin>
+<ColorMapVariable Type="String">
+bmag
+</ColorMapVariable>
+<FieldVariableName_X Type="String">
+NULL
+</FieldVariableName_X>
+<FieldVariableName_Y Type="String">
+NULL
+</FieldVariableName_Y>
+<FieldVariableName_Z Type="String">
+NULL
+</FieldVariableName_Z>
+<VariableName Type="String">
+bmag
+</VariableName>
+<MapperFunctions>
+</MapperFunctions>
+<BoxParams>
+<Orientation Type="Long">
+3 
+</Orientation>
+<Planar Type="Long">
+0 
+</Planar>
+<Angles Type="Double">
+0 0 0 
+</Angles>
+<Extents Type="Double">
+0 0 -7.982132911682129 11.97071266174316 11.97071266174316 2.498000144958496 
+</Extents>
+</BoxParams>
+<ColorBarSettingParams>
+<ColorbarEnabled Type="Long">
+0 
+</ColorbarEnabled>
+<ColorbarFontsize Type="Long">
+10 
+</ColorbarFontsize>
+<ColorbarNumDigits Type="Long">
+4 
+</ColorbarNumDigits>
+<ColorbarNumTicks Type="Long">
+6 
+</ColorbarNumTicks>
+<UseScientificNotationTag Type="Long">
+0 
+</UseScientificNotationTag>
+<ColorbarBackgroundColor Type="Double">
+1 1 1 
+</ColorbarBackgroundColor>
+<ColorbarPosition_X Type="Double">
+0.03 
+</ColorbarPosition_X>
+<ColorbarPosition_Y Type="Double">
+0.03 
+</ColorbarPosition_Y>
+<ColorbarSize_X Type="Double">
+0.1 
+</ColorbarSize_X>
+<ColorbarSize_Y Type="Double">
+0.1 
+</ColorbarSize_Y>
+<ColorbarTitle Type="String">
+NULL
+</ColorbarTitle>
+</ColorBarSettingParams>
+<Transform>
+<OriginInitialized Type="Long">
+1 
+</OriginInitialized>
+<Origin Type="Double">
+5.985356330871582 5.985356330871582 -2.742066383361816 
+</Origin>
+</Transform>
+</PlotParams>
+</PlotParams>
+</sampledata_1290.nc>
+</AppRenderers>
+</VAPOR>
