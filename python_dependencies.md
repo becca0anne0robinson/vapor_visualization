@@ -2,6 +2,7 @@ Here are a few helpful python packages that you'll need to install before using 
 
 For MacOS/Linux:
 ```
+pip install jupyterlab
 python3 -m pip install pyautogui
 conda install time
 conda install imageio
