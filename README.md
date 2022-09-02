@@ -1,4 +1,4 @@
-# Vapor Visualization
+# Vapor Visualization Tutorial
 
 Hi! This repository includes the Jupyter notebooks we'll reference during the tutorial, as well as a few how-to docs. Note that I have already prepared Vapor-readable data in advance, but I also want to show you how to create such files. During the tutorial, we'll focus on the data I've prepared using `VAPOR_Visualization.ipynb` and `nco.md`, and then we'll use `automate_example.ipynb` to make an animation of our Vapor renderings. 
 
