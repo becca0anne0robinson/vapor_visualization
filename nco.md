@@ -1,5 +1,5 @@
-Before reading your netCDF into Vapor, you'll need to do a bit of post-processing. This is because netCDF has a nasty habit of flipping your x and z axes,
-in a way that is not so easy to anticipate. To fix this, you'll need a package called NCO.
+Before reading your netCDF into Vapor, you'll need to do a bit of post-processing. This is because netCDF has a nasty habit of flipping your x and z axes
+in a way that is not straightforward to fix beforehand. To remedy this, you'll need a package called NCO.
 
 To install NCO with conda:
 
