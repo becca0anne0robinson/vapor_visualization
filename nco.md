@@ -18,5 +18,4 @@ end_time=$(date +%s)
 echo "done. time elapsed: $(($end_time - $start_time))"
 ```
 
-This script will use a NCO command called ncpdq to permute the x and z axes back to where they should be. If you use your filename as the input and output,
-the file will be overwritten with the correct axes. 
+This script will use a NCO command called ncpdq to transpose the x and z axes back to where they should be. If you use your filename as the input and output, the file will be overwritten with the correct axes. 
