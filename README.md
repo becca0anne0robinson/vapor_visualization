@@ -14,7 +14,7 @@ In this repository, you'll find:
 
 ## Where can I find the already-prepared data?
 
-Check here, and download everything here to your local machine: `/mn/stornext/d18/RoCS/rebecrob/tutorial_data`
+Check here, and download everything here to your local machine: `/mn/stornext/d9/data/rebecrob/tutorial_data`
 
 ## Where can I find a Video Tutorial for `automate_example.ipynb`? 
 ### Sounds fun, [click here!](https://www.dropbox.com/s/njxc6xc50iojm0h/vapor_tutorial.mp4?dl=0)
